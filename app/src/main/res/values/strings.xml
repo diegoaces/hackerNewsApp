@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ReignTest</string>
+    <string name="story_title_example_string">Signal is finally bringing its secure messaging to the masses</string>
+    <string name="author_item_example">Author</string>
+    <string name="created_at_example">Yesterday</string>
+    <string name="item_spacer">-</string>
+    <string name="loading_error">Content not available, please check your internet connection.</string>
+    <string name="item_delete">Delete</string>
+    <string name="label_main">Hacker News</string>
+    <string name="back_title">Back</string>
+    <string name="url_not_found">url not found</string>
+</resources>
